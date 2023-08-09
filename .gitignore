@@ -1,5 +1,7 @@
 # database
 notebooks/02_twitter/accounts.db
+notebooks/02_twitter/checkpoints/
+notebooks/01_hellopeter/checkpoints/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
