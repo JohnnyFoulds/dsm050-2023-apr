@@ -5,6 +5,7 @@ ipywidgets==8.0.7
 jupysql==0.8.0
 langchain==0.0.244
 matplotlib==3.7.2
+missingno==0.5.2
 openai==0.27.8
 openpyxl==3.1.2
 pyabsa==2.3.1
