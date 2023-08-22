@@ -1,0 +1,41 @@
+id,occupation,gender,age,education,marital_status,provider,customer_years,customer_type,preferred_channel,satisfaction_overall,used_ai,satisfaction_ai,effective_ai,review_date
+1058192-1058174-111830520,Employed,Male,35-44 years,Bachelor Degree,Married or domestic partnership,Vodacom,More than 5 years,Contract,Phone,Very Satisfied,True,Neutral,Agree,2023-01-01
+1058192-1058174-111884750,Employed,Female,35-44 years,Masters Degree/MBA or similar,Married or domestic partnership,Vodacom,More than 5 years,Hybrid,Phone,Satisfied,True,Neutral,Neutral,2022-06-16
+1058192-1058174-111894339,Employed,Male,45-54 years,Bachelor Degree,Divorced,Other,2-5 years,Contract,In-person,Very Satisfied,True,Very Dissatisfied,Disagree,2023-05-15
+1058192-1058174-111894425,Employed,Female,25-34 years,Highschool graduate or similar,"Single, never married",Telkom,2-5 years,Contract,Email,Satisfied,True,Neutral,Disagree,2023-02-24
+1058192-1058174-111896371,Employed,Female,35-44 years,Highschool graduate or similar,"Single, never married",Vodacom,More than 5 years,Contract,Phone,Very Satisfied,True,,Strongly agree,2021-09-22
+1058192-1058174-111897624,Employed,Female,25-34 years,Masters Degree/MBA or similar,"Single, never married",Vodacom,More than 5 years,Contract,In-person,Satisfied,True,Neutral,Disagree,2023-05-31
+1058192-1058174-111899726,Employed,Male,25-34 years,Masters Degree/MBA or similar,"Single, never married",Telkom,2-5 years,Contract,Email,Satisfied,True,Dissatisfied,Disagree,2023-05-05
+1058192-1058174-111894352,Employed,Male,25-34 years,Bachelor Degree,"Single, never married",Telkom,More than 5 years,Hybrid,Email,Very Satisfied,True,,Agree,2023-06-01
+1058192-1058174-111912964,Employed,Male,25-34 years,Bachelor Degree,"Single, never married",Vodacom,2-5 years,Contract,In-person,Satisfied,True,,Disagree,2023-05-12
+1058192-1058174-111918759,Employed,Female,45-54 years,Bachelor Degree,Married or domestic partnership,Vodacom,More than 5 years,Contract,Chatbot,Satisfied,True,Satisfied,Agree,2023-01-10
+1058192-1058174-111928116,Employed,Male,25-34 years,Masters Degree/MBA or similar,"Single, never married",Cell C,More than 5 years,Prepaid,Phone,Neutral,True,Neutral,Agree,2022-11-30
+1058192-1058174-111943085,Employed,Male,25-34 years,Bachelor Degree,"Single, never married",Vodacom,1-2 years,Contract,Phone,Satisfied,True,Neutral,Disagree,2023-03-10
+1058192-1058174-111952872,Retired,Male,45-54 years,Bachelor Degree,Married or domestic partnership,Telkom,1-2 years,Prepaid,Phone,Neutral,True,Neutral,Disagree,2023-04-14
+1058192-1058174-111952904,Employed,Male,35-44 years,Masters Degree/MBA or similar,Married or domestic partnership,MTN,More than 5 years,Contract,In-person,Satisfied,True,Very Dissatisfied,Strongly disagree,2023-05-01
+1058192-1058174-111953019,Employed,Male,35-44 years,Bachelor Degree,Married or domestic partnership,Cell C,2-5 years,Prepaid,Phone,Satisfied,True,Very Satisfied,Strongly disagree,2023-06-14
+1058192-1058174-111953114,Employed,Male,45-54 years,Bachelor Degree,Married or domestic partnership,Vodacom,More than 5 years,Contract,Email,Neutral,True,,Disagree,2019-06-01
+1058192-1058174-111953402,Employed,Male,25-34 years,Doctoral Degree/PhD,Married or domestic partnership,Vodacom,More than 5 years,Contract,Email,Satisfied,True,,Disagree,2023-05-06
+1058192-1058174-111954207,Employed,Male,25-34 years,Bachelor Degree,"Single, never married",MTN,2-5 years,Contract,Email,Satisfied,True,,Strongly disagree,2023-05-25
+1058192-1058174-111966312,Employed,Male,25-34 years,Bachelor Degree,"Single, never married",Vodacom,More than 5 years,Prepaid,Social media,Satisfied,True,Neutral,Disagree,2023-03-23
+1058192-1058174-111976473,Employed,Male,35-44 years,Bachelor Degree,Married or domestic partnership,MTN,More than 5 years,Contract,Phone,Very Dissatisfied,True,,Strongly disagree,2023-05-16
+1058192-1058174-111979960,Employed,Male,35-44 years,Bachelor Degree,Married or domestic partnership,MTN,More than 5 years,Prepaid,Phone,Neutral,True,,Disagree,2023-04-24
+1058192-1058174-112018834,Employed,Female,45-54 years,Masters Degree/MBA or similar,Married or domestic partnership,Vodacom,More than 5 years,Hybrid,Email,Neutral,True,Dissatisfied,Neutral,2022-06-10
+1058192-1058174-112020099,Employed,Male,35-44 years,Highschool graduate or similar,Married or domestic partnership,Vodacom,More than 5 years,Contract,Phone,Neutral,True,,Agree,2023-01-01
+1058192-1058174-112020746,Employed,Male,45-54 years,Masters Degree/MBA or similar,Married or domestic partnership,Vodacom,More than 5 years,Contract,Phone,Satisfied,True,Neutral,Neutral,2023-06-11
+1058192-1058174-112030848,Employed,Female,25-34 years,Bachelor Degree,Married or domestic partnership,MTN,More than 5 years,Hybrid,Social media,Very Dissatisfied,True,Neutral,Neutral,2023-05-23
+1058192-1058174-112031606,Employed,Male,25-34 years,Masters Degree/MBA or similar,Married or domestic partnership,Vodacom,2-5 years,Prepaid,Chatbot,Very Dissatisfied,True,Dissatisfied,Agree,2023-02-09
+1058192-1058174-112020875,Employed,Male,35-44 years,Masters Degree/MBA or similar,"Single, never married",Vodacom,More than 5 years,Contract,Email,Satisfied,True,,Agree,2023-06-15
+1058192-1058174-112066327,Employed,Male,25-34 years,Bachelor Degree,"Single, never married",Vodacom,More than 5 years,Prepaid,Phone,Neutral,True,,Neutral,2023-06-30
+1058192-1058174-112128452,Employed,Male,25-34 years,Highschool graduate or similar,"Single, never married",MTN,2-5 years,Contract,Phone,Satisfied,True,Dissatisfied,Strongly disagree,2023-05-16
+1058192-1058174-112155368,Employed,Female,45-54 years,Bachelor Degree,Married or domestic partnership,MTN,More than 5 years,Contract,In-person,Very Satisfied,True,Very Dissatisfied,Strongly disagree,2023-06-18
+1058192-1058174-112162344,Employed,Female,25-34 years,Bachelor Degree,"Single, never married",Vodacom,More than 5 years,Contract,Phone,Satisfied,True,Satisfied,Neutral,2023-03-02
+1058192-1058174-112221846,Employed,Male,45-54 years,Highschool graduate or similar,Married or domestic partnership,Vodacom,More than 5 years,Contract,Phone,Neutral,True,Dissatisfied,Disagree,2023-04-03
+1058192-1058174-112235939,Employed,Female,35-44 years,Masters Degree/MBA or similar,Married or domestic partnership,Telkom,More than 5 years,Contract,Phone,Neutral,True,,Strongly disagree,2019-04-01
+1058192-1058174-112242304,Employed,Male,45-54 years,Bachelor Degree,Married or domestic partnership,MTN,More than 5 years,Prepaid,In-person,Dissatisfied,True,,Strongly disagree,2022-03-31
+1058192-1058174-112269884,Employed,Male,25-34 years,Masters Degree/MBA or similar,"Single, never married",MTN,More than 5 years,Contract,Social media,Satisfied,True,,Disagree,2023-04-01
+1058192-1058174-112309269,Employed,Male,45-54 years,Bachelor Degree,Married or domestic partnership,Telkom,More than 5 years,Contract,Email,Satisfied,True,,Agree,2023-03-01
+1058192-1058174-112477228,Employed,Male,45-54 years,Highschool graduate or similar,Married or domestic partnership,Telkom,More than 5 years,Contract,Phone,Satisfied,True,,Neutral,2022-12-15
+1058192-1058174-112502604,Employed,Male,35-44 years,Highschool graduate or similar,Married or domestic partnership,MTN,More than 5 years,Contract,Chatbot,Satisfied,True,Dissatisfied,Disagree,2023-03-16
+1058192-1058174-112592133,Employed,Female,35-44 years,Bachelor Degree,Married or domestic partnership,Vodacom,More than 5 years,Prepaid,Phone,Neutral,True,Dissatisfied,Disagree,2023-04-13
+1058192-1058174-112609998,Employed,Male,35-44 years,Bachelor Degree,Married or domestic partnership,Vodacom,More than 5 years,Prepaid,Phone,Satisfied,True,Dissatisfied,Agree,2023-05-25
